@@ -1,0 +1,2 @@
+rootProject.name = "Auto Image Slider"
+include ':app'
